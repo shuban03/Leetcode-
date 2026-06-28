@@ -11,15 +11,18 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root,int& diameter){
+    int height(TreeNode* root,int& diameter){ //int& diameter (pass by reference)(value changes overitme)
         if(root==nullptr)return 0;
+        //ask left and right side for thier heights while calculating each diameters
         int lh=height(root->left,diameter);
         int rh=height(root->right,diameter);
         diameter=max(diameter,lh+rh);
+        //return height
         return 1+max(lh,rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
         int diameter=0;
+        //calculate max height with extra diameter
         height(root,diameter);
         return diameter;
     }
