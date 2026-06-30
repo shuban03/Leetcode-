@@ -20,8 +20,11 @@ public:
         if(root==nullptr) return 0;
         int lh=height(root->left);
         int rh=height(root->right);
+        //calculate the difference at each node
         if(abs(lh-rh)>1)return -1;
+        //if any node returns -1 then always return -1
         if(lh==-1||rh==-1)return -1;
+        //returns height at each node
         return 1+max(lh,rh);
 
     }
