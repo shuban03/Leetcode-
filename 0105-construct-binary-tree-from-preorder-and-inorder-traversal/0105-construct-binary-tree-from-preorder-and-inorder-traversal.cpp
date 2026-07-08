@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+// Find the index of the current root in the inorder array
     int search(vector<int>& inorder,int val, int left,int right){
         for(int i=left;i<=right;i++){
              if(inorder[i]==val){
@@ -21,13 +22,16 @@ public:
     }
     
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder,int& preIdx,int left,int right) {
+        //if left<right there are no elements left in the range
         if(left>right){
             return NULL;
         }
         TreeNode* root=new TreeNode(preorder[preIdx]);
         int mid=search(inorder,preorder[preIdx],left,right);
         preIdx++;
+        //build left side form left to mid-1!
         root->left=helper(preorder,inorder,preIdx,left,mid-1);
+        //build right side from mid+1 to right!
         root->right=helper(preorder,inorder,preIdx,mid+1,right);
         return root;
     }
