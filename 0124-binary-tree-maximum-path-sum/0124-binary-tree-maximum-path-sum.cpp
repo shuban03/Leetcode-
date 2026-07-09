@@ -16,8 +16,9 @@ public:
         //max(0,helper) returns only +ve values
         int leftsum=max(0,helper(root->left,maxi));
         int rightsum=max(0,helper(root->right,maxi));
+        //calculates maximum path sum
         maxi=max(maxi,leftsum+rightsum+root->val);
-        //max(left,right) => we need maximum path not node sum
+        //returns the best single path
         return root->val+max(leftsum,rightsum);
 
     } 
