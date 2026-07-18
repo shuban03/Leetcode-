@@ -1,17 +1,9 @@
 class Solution {
 public:
-    // Stores all valid combinations
     vector<vector<int>> res;
-
     vector<vector<int>> combinationSum(vector<int>& nums, int target) {
-
-        // Stores the current combination being built
         vector<int> cur;
-
-        // Start backtracking from index 0
         helper(nums, target, cur, 0);
-
-        // Return all valid combinations
         return res;
     }
 
