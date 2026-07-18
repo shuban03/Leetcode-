@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shuban03/Leetcode-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/shuban03/Leetcode-/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -148,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shuban03/Leetcode-/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/shuban03/Leetcode-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
