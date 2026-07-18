@@ -16,9 +16,9 @@ public:
     void helper(vector<int>& nums, int i,vector<int>& subset,vector<vector<int>>& res) {
 
         // Base Case:
-        // If we've processed all elements,
-        // store the current subset and return.
-        if (i == nums.size()) {
+        //if tracking has reached the end
+        //add the answer to the result and proceed
+        if (i == nums.size()) {                                   
             res.push_back(subset);
             return;
         }
@@ -29,7 +29,6 @@ public:
         // Backtracking:
         // Remove the element before exploring the next choice
         subset.pop_back();
-
         helper(nums, i + 1, subset, res);
     }
 };
