@@ -13,9 +13,9 @@ vector<vector<int>> res;
             }
 
             for(int j=i;j<nums.size();j++){
-                swap(nums[i],nums[j]);
-                helper(nums,i+1);
-                swap(nums[i],nums[j]);
+               swap(nums[i], nums[j]);   // Make a choice
+               helper(nums, i + 1);      // Explore
+               swap(nums[i], nums[j]);   // Undo the choice 
             }
     }
 };
