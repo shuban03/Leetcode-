@@ -1,3 +1,11 @@
+
+//in backtracking whenever u want to remove duplicates first sort and then remove repeating elements side by side
+
+
+
+
+
+
 class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
