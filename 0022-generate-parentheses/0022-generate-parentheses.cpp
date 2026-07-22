@@ -11,15 +11,15 @@ public:
        if(openN==closeN && openN==n){
         res.push_back(ans);
        }
-       if(openN<n){
-        ans+='(';
-        helper(res,ans,n,openN+1,closeN);
-        ans.pop_back();
+       if(openN<n){                               //for '('
+        ans+='(';                                 //addd
+        helper(res,ans,n,openN+1,closeN);         //explore
+        ans.pop_back();                           //remove
        }
-       if(closeN<openN){
-        ans+=')';
-        helper(res,ans,n,openN,closeN+1);
-        ans.pop_back();
+       if(closeN<openN){                           //for ')'
+        ans+=')';                                  //addd
+        helper(res,ans,n,openN,closeN+1);          //explore
+        ans.pop_back();                            //remove
        }
-    }
+    } 
 };
