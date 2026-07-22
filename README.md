@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shuban03/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/shuban03/Leetcode-/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shuban03/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuban03/Leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Design
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shuban03/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shuban03/Leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shuban03/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shuban03/Leetcode-/tree/master/0046-permutations) |
