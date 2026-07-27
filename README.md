@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shuban03/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
 | [1046-last-stone-weight](https://github.com/shuban03/Leetcode-/tree/master/1046-last-stone-weight) |
+| [1929-concatenation-of-array](https://github.com/shuban03/Leetcode-/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shuban03/Leetcode-/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
