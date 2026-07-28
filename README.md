@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shuban03/Leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shuban03/Leetcode-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/shuban03/Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/shuban03/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuban03/Leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shuban03/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shuban03/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuban03/Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shuban03/Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/shuban03/Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shuban03/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shuban03/Leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shuban03/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shuban03/Leetcode-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -174,9 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shuban03/Leetcode-/tree/master/1929-concatenation-of-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
