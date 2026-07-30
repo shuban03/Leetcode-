@@ -27,7 +27,8 @@ public:
             int cur=q.front();
             q.pop();
             order.push_back(cur);
-
+            
+            //when one task is completed next is unlocked (push into the queue)
             for(int next:graph[cur]){
                 indegree[next]--;
                 if(indegree[next]==0){
