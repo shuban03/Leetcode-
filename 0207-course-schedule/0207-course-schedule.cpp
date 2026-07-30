@@ -5,7 +5,7 @@ public:
         vector<int> indegree(numCourses,0);
         
 
-        //build the graph
+        //build the graph and update indegreee
         for(auto edge:prerequisites){
             int course=edge[0];
             int prerequisite=edge[1];
@@ -14,6 +14,7 @@ public:
             indegree[course]++;
         }
         
+        //create a queue and push all coursees with indegree 0 to the queue(indegree 0 means courses can be taken)
         queue<int> q;
         for(int i=0;i<numCourses;i++){
             if(indegree[i]==0){
@@ -21,7 +22,7 @@ public:
             }
         }
 
-        int completed=0;
+        int completed=0;    
 
         //bfs
         while(!q.empty()){
