@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shuban03/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/shuban03/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shuban03/Leetcode-/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuban03/Leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/shuban03/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shuban03/Leetcode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shuban03/Leetcode-/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shuban03/Leetcode-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shuban03/Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
