@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shuban03/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/shuban03/Leetcode-/tree/master/0695-max-area-of-island) |
+| [0746-min-cost-climbing-stairs](https://github.com/shuban03/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/shuban03/Leetcode-/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/shuban03/Leetcode-/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/shuban03/Leetcode-/tree/master/1470-shuffle-the-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shuban03/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shuban03/Leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/shuban03/Leetcode-/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/shuban03/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 ## Design
 |  |
 | ------- |
