@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shuban03/Leetcode-/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/shuban03/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shuban03/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Memoization
