@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shuban03/Leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shuban03/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/shuban03/Leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shuban03/Leetcode-/tree/master/0040-combination-sum-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shuban03/Leetcode-/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shuban03/Leetcode-/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/shuban03/Leetcode-/tree/master/0217-contains-duplicate) |
