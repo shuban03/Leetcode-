@@ -10,8 +10,8 @@ public:
             }
         }
         for(int i=k;i<n;i++){
-            nums[k]=0;
-            k++;
+            nums[i]=0;
+           
         }
         
 
