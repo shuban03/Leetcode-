@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shuban03/Leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shuban03/Leetcode-/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/shuban03/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shuban03/Leetcode-/tree/master/0217-contains-duplicate) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shuban03/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shuban03/Leetcode-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/shuban03/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/shuban03/Leetcode-/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/shuban03/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shuban03/Leetcode-/tree/master/0242-valid-anagram) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shuban03/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shuban03/Leetcode-/tree/master/0695-max-area-of-island) |
 ## Graph Theory
