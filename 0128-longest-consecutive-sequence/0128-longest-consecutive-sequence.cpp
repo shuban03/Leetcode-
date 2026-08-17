@@ -13,9 +13,7 @@ public:
                 maxseq=max(maxseq,count);
             }else if(nums[i]==nums[i-1]){
 
-                maxseq=max(maxseq,count);
-
-            }else{
+               }else{
                 count=1;
             }
         }
