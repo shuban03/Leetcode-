@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shuban03/Leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shuban03/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/shuban03/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/shuban03/Leetcode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shuban03/Leetcode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shuban03/Leetcode-/tree/master/0046-permutations) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shuban03/Leetcode-/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shuban03/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/shuban03/Leetcode-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/shuban03/Leetcode-/tree/master/0133-clone-graph) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shuban03/Leetcode-/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/shuban03/Leetcode-/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shuban03/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
