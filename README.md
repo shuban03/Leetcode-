@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shuban03/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shuban03/Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shuban03/Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shuban03/Leetcode-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/shuban03/Leetcode-/tree/master/0695-max-area-of-island) |
@@ -152,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shuban03/Leetcode-/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/shuban03/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shuban03/Leetcode-/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shuban03/Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shuban03/Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/shuban03/Leetcode-/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuban03/Leetcode-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/shuban03/Leetcode-/tree/master/1046-last-stone-weight) |
 ## Data Stream
@@ -190,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shuban03/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shuban03/Leetcode-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/shuban03/Leetcode-/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuban03/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuban03/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shuban03/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
