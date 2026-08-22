@@ -28,6 +28,8 @@ public:
             }
         }
 
+        //make all the 'O' as 'X' 
+        //and all  the 'T' as 'O'
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
 
@@ -48,11 +50,10 @@ public:
             return;
         }
 
+        //if not zero
         if(board[i][j]!='O'){
             return;
         }
-
-
 
         if(board[i][j]=='O'){
             board[i][j]='T';
