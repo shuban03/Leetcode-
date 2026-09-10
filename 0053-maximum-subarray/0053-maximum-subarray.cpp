@@ -11,7 +11,7 @@ public:
             if(sum>maxi){
                 maxi=sum;
             }
-            //dont carry negetive sum to next step
+            //if sum<0 reset sum to 0
             if(sum<0){
                 sum=0;
             }
