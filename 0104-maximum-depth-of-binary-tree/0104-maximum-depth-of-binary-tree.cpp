@@ -12,14 +12,9 @@
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        //base case
-        if(root==nullptr)return 0;
-        //hey left whats ur height
+        if(root==nullptr) return 0;
         int left=maxDepth(root->left);
-        //hey right whats ur height then
         int right=maxDepth(root->right);
-        //now i have to think what is my height then (1+taller once height)
         return 1+max(left,right);
-        
     }
 };
