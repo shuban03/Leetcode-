@@ -313,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuban03/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shuban03/Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
